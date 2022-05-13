@@ -1,7 +1,7 @@
 ---
 name: thismootsga
 shortname: thismoots
-avatar: /static/thismoots.jpg
+avatar: /static/thismootsga.jpg
 occupation: Student Software Engine
 company: Curebase
 resume: https://#
